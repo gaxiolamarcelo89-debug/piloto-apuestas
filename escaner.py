@@ -46,6 +46,12 @@ LIGAS = {
     "soccer_italy_serie_a": "Serie A",
     "soccer_france_ligue_one": "Ligue 1",
     "soccer_mexico_ligamx": "Liga MX",
+    "soccer_uefa_nations_league": "Nations League",
+    "soccer_uefa_champs_league": "Champions League",
+    "soccer_uefa_europa_league": "Europa League",
+    "soccer_usa_mls": "MLS",
+    "soccer_brazil_campeonato": "Brasil Serie A",
+    "soccer_argentina_primera_division": "Argentina Primera",
 }
 REGION = "eu"                  # 1 crédito por liga por llamada
 MARGEN_MINIMO = 0.02           # 2 % sobre el precio justo
