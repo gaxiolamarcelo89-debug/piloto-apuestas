@@ -175,58 +175,58 @@ lun 12/10 13:00,Brasil Serie A,Coritiba vs Botafogo,2.66,3.46,2.41,27.0
 lun 12/10 15:30,Argentina Primera,Gimnasia Mendoza vs Newells Old Boys,2.33,3.04,3.16,17.0
 lun 12/10 16:30,Brasil Serie A,Chapecoense vs Atletico Paranaense,3.89,3.64,1.82,23.0
 lun 12/10 18:00,Brasil Serie A,Bragantino-SP vs Cruzeiro,2.18,3.53,2.96,18.0
-mar 13/10 10:45,Champions League,RC Lens vs Sporting Lisbon,2.49,3.62,2.66,27.0
 mar 13/10 10:45,Champions League,Sabah FK vs Slavia Praha,3.87,3.77,1.88,27.0
-mar 13/10 13:00,Champions League,Arsenal vs Lille,1.2,6.74,14.16,21.0
-mar 13/10 13:00,Champions League,Atlético Madrid vs Manchester United,1.8,3.77,4.19,21.0
+mar 13/10 10:45,Champions League,RC Lens vs Sporting Lisbon,2.49,3.62,2.66,27.0
 mar 13/10 13:00,Champions League,RB Leipzig vs PSV Eindhoven,1.55,4.91,4.76,21.0
-mar 13/10 13:00,Champions League,Galatasaray vs Barcelona,7.65,6.27,1.3,21.0
 mar 13/10 13:00,Champions League,Villarreal vs Napoli,2.14,3.48,3.29,21.0
+mar 13/10 13:00,Champions League,Atlético Madrid vs Manchester United,1.8,3.77,4.19,21.0
 mar 13/10 13:00,Champions League,Inter Milan vs Club Brugge,1.22,6.69,11.0,21.0
 mar 13/10 13:00,Champions League,Viking FK vs Bayern Munich,13.83,9.55,1.14,21.0
+mar 13/10 13:00,Champions League,Galatasaray vs Barcelona,7.65,6.27,1.3,21.0
+mar 13/10 13:00,Champions League,Arsenal vs Lille,1.2,6.74,14.16,21.0
 mié 14/10 10:45,Champions League,LASK vs Liverpool,7.19,4.91,1.4,21.0
 mié 14/10 10:45,Champions League,Feyenoord vs Como,2.99,3.64,2.25,21.0
-mié 14/10 13:00,Champions League,Manchester City vs Paris Saint Germain,1.92,4.19,3.4,11.0
+mié 14/10 13:00,Champions League,AS Roma vs Real Madrid,3.64,3.94,1.91,11.0
+mié 14/10 13:00,Champions League,Shakhtar Donetsk vs AEK Athens,2.7,3.23,2.65,11.0
+mié 14/10 13:00,Champions League,Bodø/Glimt vs Borussia Dortmund,2.62,3.76,2.45,11.0
 mié 14/10 13:00,Champions League,Real Betis vs Porto,2.11,3.61,3.26,11.0
 mié 14/10 13:00,Champions League,ŠK Slovan Bratislava vs VfB Stuttgart,7.18,5.69,1.34,11.0
+mié 14/10 13:00,Champions League,Manchester City vs Paris Saint Germain,1.92,4.19,3.4,11.0
 mié 14/10 13:00,Champions League,Aston Villa vs Fenerbahce,1.61,4.17,5.09,11.0
-mié 14/10 13:00,Champions League,AS Roma vs Real Madrid,3.64,3.94,1.91,11.0
-mié 14/10 13:00,Champions League,Bodø/Glimt vs Borussia Dortmund,2.62,3.76,2.45,11.0
-mié 14/10 13:00,Champions League,Shakhtar Donetsk vs AEK Athens,2.7,3.23,2.65,11.0
 mié 14/10 16:00,Argentina Primera,Sarmiento de Junin vs River Plate,6.49,3.92,1.49,3.0
-mié 14/10 17:30,MLS,D.C. United vs New York Red Bulls,2.36,3.76,2.61,13.0
-mié 14/10 17:30,MLS,Inter Miami CF vs New York City FC,1.47,4.71,5.47,13.0
 mié 14/10 17:30,MLS,Toronto FC vs Orlando City SC,2.18,3.85,2.8,13.0
-mié 14/10 17:30,MLS,FC Cincinnati vs New England Revolution,2.09,3.98,2.91,13.0
-mié 14/10 17:30,MLS,CF Montreal vs Atlanta United FC,2.52,3.6,2.51,13.0
 mié 14/10 17:30,MLS,Columbus Crew SC vs Charlotte FC,1.73,4.18,3.9,13.0
+mié 14/10 17:30,MLS,CF Montreal vs Atlanta United FC,2.52,3.6,2.51,13.0
+mié 14/10 17:30,MLS,D.C. United vs New York Red Bulls,2.36,3.76,2.61,13.0
+mié 14/10 17:30,MLS,FC Cincinnati vs New England Revolution,2.09,3.98,2.91,13.0
+mié 14/10 17:30,MLS,Inter Miami CF vs New York City FC,1.47,4.71,5.47,13.0
 mié 14/10 18:30,MLS,Chicago Fire vs Philadelphia Union,2.45,3.83,2.48,13.0
 mié 14/10 18:30,MLS,St. Louis City SC vs Vancouver Whitecaps FC,2.25,3.74,2.78,13.0
-mié 14/10 18:30,MLS,Nashville SC vs Sporting Kansas City,1.15,7.86,13.25,13.0
 mié 14/10 18:30,MLS,FC Dallas vs Seattle Sounders FC,1.91,3.87,3.42,13.0
+mié 14/10 18:30,MLS,Nashville SC vs Sporting Kansas City,1.15,7.86,13.25,13.0
 mié 14/10 19:30,MLS,Colorado Rapids vs Minnesota United FC,1.83,3.74,3.84,24.0
 mié 14/10 19:30,MLS,Real Salt Lake vs San Jose Earthquakes,1.73,4.13,3.96,24.0
-mié 14/10 20:30,MLS,LA Galaxy vs Portland Timbers,2.07,3.88,3.02,21.0
 mié 14/10 20:30,MLS,Los Angeles FC vs Austin FC,1.36,5.05,6.96,21.0
+mié 14/10 20:30,MLS,LA Galaxy vs Portland Timbers,2.07,3.88,3.02,21.0
 mié 14/10 20:30,MLS,San Diego FC vs Houston Dynamo,2.03,3.61,3.29,21.0
+jue 15/10 10:45,Europa League,Lyon vs Crystal Palace,2.59,3.58,2.53,16.0
 jue 15/10 10:45,Europa League,Torreense vs Sunderland,10.36,5.51,1.27,16.0
-jue 15/10 10:45,Europa League,Union Saint-Gilloise vs Real Sociedad,2.5,3.65,2.56,16.0
 jue 15/10 10:45,Europa League,NK Celje vs Omonoia FC,3.05,3.34,2.28,16.0
 jue 15/10 10:45,Europa League,Sparta Prague vs Lillestrom,1.39,5.09,6.74,16.0
 jue 15/10 10:45,Europa League,AZ Alkmaar vs Hapoel Be'er Sheva,1.43,4.92,6.22,16.0
-jue 15/10 10:45,Europa League,Lyon vs Crystal Palace,2.59,3.58,2.53,16.0
-jue 15/10 10:45,Europa League,Lech Poznań vs Bayer Leverkusen,6.05,4.85,1.45,16.0
+jue 15/10 10:45,Europa League,Union Saint-Gilloise vs Real Sociedad,2.5,3.65,2.56,16.0
 jue 15/10 10:45,Europa League,Salzburg vs AC Milan,3.82,3.6,1.91,16.0
-jue 15/10 13:00,Europa League,Celta Vigo vs Juventus,3.42,3.09,2.22,13.0
+jue 15/10 10:45,Europa League,Lech Poznań vs Bayer Leverkusen,6.05,4.85,1.45,16.0
+jue 15/10 13:00,Europa League,NEC Nijmegen vs PFC Levski Sofia,1.78,3.63,4.4,13.0
+jue 15/10 13:00,Europa League,Marseille vs Olympiakos Piraeus,2.76,3.37,2.49,13.0
 jue 15/10 13:00,Europa League,Ferencváros TC vs Viktoria Plzeň,1.82,3.82,3.96,13.0
 jue 15/10 13:00,Europa League,Jagiellonia Białystok vs FC Ararat-Armenia,1.41,4.77,6.8,13.0
-jue 15/10 13:00,Europa League,NEC Nijmegen vs PFC Levski Sofia,1.78,3.63,4.4,13.0
+jue 15/10 13:00,Europa League,Celta Vigo vs Juventus,3.42,3.09,2.22,13.0
 jue 15/10 13:00,Europa League,Dinamo Zagreb vs Anderlecht,1.85,3.7,3.92,13.0
-jue 15/10 13:00,Europa League,Benfica vs Celtic,1.17,7.73,13.14,13.0
-jue 15/10 13:00,Europa League,Marseille vs Olympiakos Piraeus,2.76,3.37,2.49,13.0
-jue 15/10 13:00,Europa League,Bournemouth vs SK Sturm Graz,1.15,7.95,15.14,13.0
 jue 15/10 13:00,Europa League,TSG Hoffenheim vs Besiktas JK,1.84,3.96,3.73,13.0
+jue 15/10 13:00,Europa League,Benfica vs Celtic,1.17,7.73,13.14,13.0
 jue 15/10 13:00,Europa League,Rennes vs OFI Crete,1.19,7.12,12.86,13.0
+jue 15/10 13:00,Europa League,Bournemouth vs SK Sturm Graz,1.15,7.95,15.14,13.0
 jue 15/10 17:00,Argentina Primera,Atlético Huracán vs Gimnasia La Plata,2.13,3.01,3.51,8.0
 vie 16/10 12:30,Bundesliga,Eintracht Frankfurt vs 1. FC Köln,1.76,4.21,3.94,12.0
 vie 16/10 12:45,Serie A,Frosinone vs Sassuolo,2.48,3.63,2.62,27.0
@@ -241,3 +241,8 @@ vie 16/10 21:05,Liga MX,Tijuana vs Puebla,1.71,3.65,4.34,27.0
 sáb 17/10 05:30,Premier League,Everton vs Chelsea,2.89,3.55,2.36,26.0
 sáb 17/10 06:00,LaLiga,Espanyol vs Atlético Madrid,5.05,3.93,1.66,24.0
 sáb 17/10 07:00,Serie A,Venezia vs Napoli,4.31,3.79,1.77,18.0
+sáb 17/10 07:30,Bundesliga,Union Berlin vs Borussia Dortmund,5.83,4.56,1.5,16.0
+sáb 17/10 07:30,Bundesliga,Werder Bremen vs SC Paderborn,1.67,4.2,4.5,16.0
+sáb 17/10 07:30,Bundesliga,Hamburger SV vs VfB Stuttgart,4.13,4.13,1.74,16.0
+sáb 17/10 07:30,Bundesliga,FC Schalke 04 vs FSV Mainz 05,2.88,3.48,2.35,16.0
+sáb 17/10 07:30,Bundesliga,Elversberg vs Augsburg,2.44,3.7,2.63,16.0
