@@ -358,8 +358,8 @@ mié 21/10 17:00,MLS,FC Cincinnati vs D.C. United,1.51,4.77,4.87,19.0
 mié 21/10 19:00,Liga MX,Puebla vs Monterrey,3.77,3.56,1.84,9.0
 mié 21/10 19:00,Liga MX,Toluca vs Tijuana,1.1,8.44,16.2,9.0
 mié 21/10 19:00,Liga MX,Atlas vs América,3.31,3.55,1.97,9.0
-mié 21/10 21:10,Liga MX,Pachuca vs Cruz Azul,2.98,3.49,2.14,30.0
 mié 21/10 21:10,Liga MX,Santos Laguna vs Pumas,2.28,3.5,2.76,30.0
+mié 21/10 21:10,Liga MX,Pachuca vs Cruz Azul,2.98,3.49,2.14,30.0
 jue 22/10 10:45,Europa League,Ferencváros TC vs Torreense,1.35,5.04,7.8,3611.0
 jue 22/10 10:45,Europa League,Juventus vs Rennes,1.57,4.18,5.27,3611.0
 jue 22/10 10:45,Europa League,Union Saint-Gilloise vs Hapoel Be'er Sheva,1.3,5.51,8.8,3611.0
@@ -398,31 +398,32 @@ sáb 24/10 07:30,Bundesliga,RB Leipzig vs Elversberg,1.51,4.86,5.11,11.0
 sáb 24/10 07:30,Bundesliga,1. FC Köln vs FC Schalke 04,2.09,3.62,3.24,11.0
 sáb 24/10 07:30,Bundesliga,SC Paderborn vs Hamburger SV,2.15,3.62,3.09,11.0
 sáb 24/10 07:30,Bundesliga,FSV Mainz 05 vs Werder Bremen,1.7,4.08,4.34,11.0
-sáb 24/10 08:00,Premier League,Arsenal vs Everton,1.36,4.99,8.27,7.0
 sáb 24/10 08:00,Premier League,Coventry City vs Fulham,3.32,3.47,2.13,7.0
+sáb 24/10 08:00,Premier League,Arsenal vs Everton,1.36,4.99,8.27,7.0
 sáb 24/10 08:15,LaLiga,Real Racing Club de Santander vs Espanyol,2.25,3.62,2.93,22.0
 sáb 24/10 09:15,Ligue 1,Toulouse vs Troyes,1.63,4.15,4.84,6401.0
 sáb 24/10 10:00,Serie A,Napoli vs AS Roma,2.64,3.26,2.66,7.0
-sáb 24/10 10:30,LaLiga,Valencia vs Villarreal,3.3,3.51,2.11,14.0
 sáb 24/10 10:30,Bundesliga,Borussia Dortmund vs Eintracht Frankfurt,1.4,5.22,6.4,14.0
 sáb 24/10 10:30,Premier League,Chelsea vs Tottenham Hotspur,1.86,3.86,3.87,14.0
+sáb 24/10 10:30,LaLiga,Valencia vs Villarreal,3.3,3.51,2.11,14.0
 sáb 24/10 11:30,MLS,CF Montreal vs Nashville SC,6.15,4.69,1.43,14.0
 sáb 24/10 11:45,Argentina Primera,Banfield vs Lanus,3.65,3.17,2.05,29.0
-sáb 24/10 12:45,Serie A,Lazio vs Parma,1.46,4.3,6.98,172.0
 sáb 24/10 12:45,Ligue 1,RC Lens vs Paris FC,2.56,3.61,2.55,232.0
+sáb 24/10 12:45,Serie A,Lazio vs Parma,1.46,4.3,6.98,172.0
 sáb 24/10 13:00,LaLiga,Atlético Madrid vs Deportivo La Coruña,1.25,6.17,10.48,13.0
-sáb 24/10 13:30,Brasil Serie A,Internacional vs Botafogo,2.14,3.42,3.16,13.0
-sáb 24/10 13:30,MLS,Columbus Crew SC vs Toronto FC,1.63,4.19,4.5,13.0
 sáb 24/10 13:30,Brasil Serie A,Mirassol vs Sao Paulo,2.14,3.25,3.3,13.0
+sáb 24/10 13:30,MLS,Columbus Crew SC vs Toronto FC,1.63,4.19,4.5,13.0
+sáb 24/10 13:30,Brasil Serie A,Internacional vs Botafogo,2.14,3.42,3.16,13.0
 sáb 24/10 13:30,Brasil Serie A,Vitoria vs Atletico Paranaense,2.41,3.28,2.8,13.0
 sáb 24/10 14:00,Argentina Primera,Talleres vs Defensa y Justicia,2.32,3.16,3.01,13.0
-sáb 24/10 15:30,Brasil Serie A,Palmeiras vs Bragantino-SP,1.52,4.17,5.64,27.0
 sáb 24/10 15:30,Brasil Serie A,Vasco da Gama vs Corinthians,1.62,3.75,5.18,27.0
+sáb 24/10 15:30,Brasil Serie A,Palmeiras vs Bragantino-SP,1.52,4.17,5.64,27.0
 sáb 24/10 15:30,MLS,New York Red Bulls vs Inter Miami CF,3.17,4.07,1.96,27.0
 sáb 24/10 16:15,Argentina Primera,San Lorenzo vs Newells Old Boys,2.58,2.77,3.01,11.0
 sáb 24/10 16:30,Brasil Serie A,Chapecoense vs Fluminense,4.11,3.55,1.81,26.0
 sáb 24/10 17:00,Liga MX,León vs Toluca,3.67,3.7,1.83,24.0
-sáb 24/10 17:30,MLS,Orlando City SC vs New York City FC,2.24,3.8,2.74,27.0
 sáb 24/10 17:30,MLS,Atlanta United FC vs Chicago Fire,2.61,3.76,2.35,27.0
-sáb 24/10 17:30,MLS,Philadelphia Union vs New England Revolution,1.48,4.7,5.35,27.0
 sáb 24/10 17:30,MLS,D.C. United vs FC Cincinnati,2.73,3.9,2.22,27.0
+sáb 24/10 17:30,MLS,Philadelphia Union vs New England Revolution,1.48,4.7,5.35,27.0
+sáb 24/10 17:30,MLS,Orlando City SC vs New York City FC,2.24,3.8,2.74,27.0
+sáb 24/10 18:00,Brasil Serie A,Santos vs Bahia,1.8,3.92,3.77,27.0
